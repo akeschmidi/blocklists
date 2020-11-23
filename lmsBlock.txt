@@ -41,3 +41,5 @@ minecraft.net
 arkadium.com
 addictinggames.com
 kwlofah.home
+play.google.com
+gogy.com
