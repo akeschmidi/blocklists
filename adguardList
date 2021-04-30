@@ -1,4 +1,11 @@
 ! add from pihole List
+
+
+
+! LINK to add https://raw.githubusercontent.com/akeschmidi/pihole/master/adguardList
+
+
+
 ||pornroi.com^
 ||google.com/search?q=porn^
 ||sirporno.xxx^
@@ -60,3 +67,5 @@
 ||callofduty.com^
 ||caseking.de^
 ||twitch.tv^
+||wog.ch^
+||mylivewallpaper.com^
